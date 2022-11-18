@@ -1,26 +1,9 @@
 {
-  "name": "Roviz",
+  "name": "Packages",
   "tree": {
-    "$className": "DataModel",
-    
-    "ReplicatedStorage": {
-      "$className": "ReplicatedStorage",
-      "$path": "src/Roviz",
-
-      "Packages": {
-        "$path": "Packages"
-      }
-    },
-
-    "StarterPlayer": {
-      "$className": "StarterPlayer",
-
-      "StarterPlayerScripts": {
-        "$className": "StarterPlayerScripts",
-        "$path": "src/Client"
-      }
-
+    "$path": "src/Packages",
+    "Roviz": {
+      "$path": "src"
     }
-
   }
 }

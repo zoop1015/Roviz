@@ -1,3 +1,4 @@
-/Packages
-*.toml
+src/Packages/
+selene.toml
+aftman.toml
 *.lock
